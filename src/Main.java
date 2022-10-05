@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int replenishment = 2000;
+        int replenishment = 2000git;
         int clientCash = 3200;
         int cashing = replenishment + clientCash;
         int bonus = 100;
